@@ -21,7 +21,7 @@
 title: Jean-Philippe's blog
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Blog of Jean-Philippe Panis.
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
